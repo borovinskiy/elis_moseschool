@@ -1,0 +1,7 @@
+name = ELiS moseschool
+description = Интеграция с Московской электронной школой (МЭШ)
+version = "7.x-0.2"
+core = "7.x"
+package = elis
+dependencies[] = elis
+files[] = elis_moseschool.module
